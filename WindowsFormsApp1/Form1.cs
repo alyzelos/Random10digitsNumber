@@ -22,9 +22,10 @@ namespace WindowsFormsApp1
         public string numarAleatorPtTelefon { get; set; }
         private void button1_Click(object sender, EventArgs e)
         {
+            string value = comboBox1.Text;
             RandomNumberGenerator numarAleator = new RandomNumberGenerator();
             numarAleatorPtTelefon = numarAleator.RandomTelephoneGenerator();
-            textBox1.Text = numarAleatorPtTelefon;
+            textBox1.Text = value + " " + numarAleatorPtTelefon;
             MessageBox.Show("New 10 digits random number generated");
         }
 
@@ -32,6 +33,9 @@ namespace WindowsFormsApp1
         {
 
         }
+
+
+ 
     }
 
 }
