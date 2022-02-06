@@ -16,3 +16,4 @@ C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\Window
 C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache

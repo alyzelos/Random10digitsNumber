@@ -72,7 +72,6 @@ namespace WindowsFormsApp1
             // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "Select Country :",
             "Romania (0040) ",
             "France (0033)",
             "Germany (0049)",
