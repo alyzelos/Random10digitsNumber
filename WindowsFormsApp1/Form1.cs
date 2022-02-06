@@ -22,11 +22,13 @@ namespace WindowsFormsApp1
         public string numarAleatorPtTelefon { get; set; }
         private void button1_Click(object sender, EventArgs e)
         {
-            string value = comboBox1.Text;
             RandomNumberGenerator numarAleator = new RandomNumberGenerator();
             numarAleatorPtTelefon = numarAleator.RandomTelephoneGenerator();
-            textBox1.Text = value + " " + numarAleatorPtTelefon;
-            MessageBox.Show("New 10 digits random number generated");
+            string value = comboBox1.Text;
+            var index = value.IndexOf(' ');
+            var dela = value.Substring(index + 1);
+            textBox1.Text = dela + " " + numarAleatorPtTelefon;
+            MessageBox.Show("For " + value + " region, the random number generated is"+ textBox1.Text);
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -34,8 +36,10 @@ namespace WindowsFormsApp1
 
         }
 
-
- 
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+         
+        }
     }
 
 }

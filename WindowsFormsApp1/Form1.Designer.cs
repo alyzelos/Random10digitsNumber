@@ -75,11 +75,12 @@ namespace WindowsFormsApp1
             "Romania (0040) ",
             "France (0033)",
             "Germany (0049)",
-            "Italy(0039)"});
+            "Italy (0039)"});
             this.comboBox1.Location = new System.Drawing.Point(192, 50);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 6;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label1
             // 

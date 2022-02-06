@@ -8,5 +8,10 @@ namespace WindowsFormsApp1
 {
     class SelectedCountry
     {
+        public string selectedCountry { get; set; }
+        public static SelectCountry(string selectedCountry)
+        {
+            selectedCountry = comboBox1_SelectedIndexChanged;
+        }
     }
 }
