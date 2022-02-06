@@ -7,3 +7,13 @@ D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\
 D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ptrutucea\source\repos\10RandomDigitsNumber\Random10digitsNumber\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
