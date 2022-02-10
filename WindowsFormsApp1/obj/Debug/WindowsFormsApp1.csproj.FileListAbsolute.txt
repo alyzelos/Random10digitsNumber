@@ -7,3 +7,4 @@ D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\
 D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\002 Cursuri C#\002 Training Apps\RandomPhoneNumberGenerator\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
